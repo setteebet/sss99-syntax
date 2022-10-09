@@ -1,18 +1,18 @@
 {
   "name": "sss99-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวย24ดีไหม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวย24ดีไหม",
-"แทงหวยเว็บ",
-"lottovip 114",
-"melotto.bet",
-"หวยลาวออนไลน์สด"
-],
+  "version": "0.2.0",
+  "description": "หวย24ดีไหม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวย24ดีไหม",
+    "แทงหวยเว็บ",
+    "lottovip 114",
+    "melotto.bet",
+    "หวยลาวออนไลน์สด"
+  ],
   "repository": "https://github.com/setteebet/sss99-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
